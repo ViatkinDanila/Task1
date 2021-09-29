@@ -16,5 +16,5 @@ public class Main {
 		num = sc.nextInt();
 		sc.close();
 	}
-	public static void 
+	
 }
